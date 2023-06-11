@@ -194,8 +194,8 @@ export default App;
 
  
  ## OUTPUT:
- <img width="414" alt="to do 1" src="https://github.com/divvisha/TO-DO/assets/127508123/8cfdd399-e2e6-4475-bdbb-6b4c154346e2">
- <img width="410" alt="to do 2" src="https://github.com/divvisha/TO-DO/assets/127508123/b5967b59-f4b8-4cb8-871e-64441099c1e2">
+<img width="414" alt="to do 1" src="https://github.com/divvisha/TO-DO/assets/127508123/8cfdd399-e2e6-4475-bdbb-6b4c154346e2">
+<img width="410" alt="to do 2" src="https://github.com/divvisha/TO-DO/assets/127508123/b5967b59-f4b8-4cb8-871e-64441099c1e2">
  
   ## RESULT:
  Thus,a todo application is created using react.
